@@ -1,0 +1,3 @@
+class AlabamaController < ApplicationController
+	
+end
